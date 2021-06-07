@@ -20,4 +20,8 @@ class Song
     song = self.new
     self.name << name
     name
+  end
+
+  def 
+
 end
