@@ -27,5 +27,8 @@ class Song
     self.name = name
     self.all << song
     song
+  end
+
+  def 
 
 end
